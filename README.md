@@ -1,5 +1,5 @@
+[![Header](https://www.audienceplanet.com/root/template/1//images/web-development.gif "Header")]
 
-[![MasterHead]https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi😎, I'm Janani Nadeesha</h1>
 <h3 align="center">Undergraduate at SUSL👩‍🎓 | Coder 🐱‍💻 | Designer😍 |New things seeker🔎</h3>
